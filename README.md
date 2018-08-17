@@ -1,7 +1,6 @@
 # Video-React 
 
 Proyecto de Interfaz de Video creado en ReactJs
-===============================================
 
 ## Instalación
 
