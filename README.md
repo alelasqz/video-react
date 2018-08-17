@@ -6,7 +6,6 @@ Proyecto de Interfaz de Video creado en ReactJs
 
 ```
 npm install
-
 ```
 
 ## Uso en Desarrollo
@@ -29,7 +28,6 @@ npm run build:prod
 
 <script type="text/javascript" src="dist/js/home.6dba50d8e50694f23b63.js">
 </script>
-
 ```
 
 ## Créditos 
