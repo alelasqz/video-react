@@ -1,6 +1,7 @@
 # Video-React 
-=======================
+
 Proyecto de Interfaz de Video creado en ReactJs
+===============================================
 
 ## Instalación
 
@@ -16,7 +17,7 @@ npm run build:dev
 http://localhost:9000
 ```
 
-## Uso en Produccion
+## Uso en Producción
 ```
 npm run build:prod
 ```
@@ -32,7 +33,7 @@ npm run build:prod
 
 ```
 
-## Creditos 
+## Créditos 
 
 [Alexander Velasquez](http://www.instagram.com/alelasqz)
 
